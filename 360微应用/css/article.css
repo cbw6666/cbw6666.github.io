@@ -1,0 +1,56 @@
+#title {
+	font-size: 5vw;
+	font-family: '宋体';
+	color: #000000;
+	line-height: 7vw;
+}
+
+.mui-card {
+	height: 80vw;
+}
+
+#owl-demo .item {
+	background: #a1def8;
+	padding: 30px 0px;
+	display: block;
+	margin: 5px;
+	color: #FFF;
+	border-radius: 3px;
+	text-align: center;
+}
+
+#ctime {
+	color: #3E3E3E;
+}
+
+img {
+	width: 100px;
+	height: 80px;
+}
+
+
+/*加载提示*/
+
+#loading {
+	display: none;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	margin-left: -50px;
+}
+
+#preview {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 7vw;
+}
+
+
+/*文章首字母加粗放大*/
+
+#preview:first-letter {
+	font-weight: bold;
+	font-size: 36px;
+}
